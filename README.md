@@ -1,5 +1,5 @@
 # HttpClientTest
-HttpClientTest for java.
+Java HttpClientTest to visit .NET Web MVC API. 
 
 # Test method
 <pre>
