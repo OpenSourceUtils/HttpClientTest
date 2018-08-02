@@ -12,7 +12,7 @@ public class MainTest {
 
     public static void main(String[] args) throws Exception{
 
-        String url="http://120.27.214.222:18100/api/WebService/MultiSIMAlarmForJsonParam";
+        String url="http://127.0.0.1:18100/api/WebService/MultiSIMAlarmForJsonParam";
         FileSourceMultiRequest request=new FileSourceMultiRequest();
         request.setSims(new String[]{"",""});
         request.setChannel(1);
